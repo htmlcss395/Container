@@ -1,7 +1,7 @@
 name: Xcode - Build
 
 on: 
-  push:
+  # push:
   pull_request:
   workflow_dispatch:
     inputs: 
